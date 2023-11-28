@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation">
+	<test name="Automation Testcases">
+		<classes>	
+			<class name="com.runners.TestRunner" />
+		</classes>
+	</test>
+	
+	<test name="GTRS Failed Testcase rerun">
+		<classes>	
+			<class name="com.runners.FailedTestRunner" />
+		</classes>
+	</test>
+	
+</suite>

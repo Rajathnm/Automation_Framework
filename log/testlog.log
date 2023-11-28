@@ -1,0 +1,25 @@
+2023-11-17 12:27:58,167 - com.bizfunction.AmazonBizz -INFO - Successfully navigated to dev environment
+2023-11-17 12:32:08,566 - com.bizfunction.AmazonBizz -INFO - Successfully navigated to dev environment
+2023-11-17 12:32:10,235 - com.bizfunction.CommonFunction -INFO - Text 'Amazon miniTV' is visible on screen
+2023-11-17 12:32:10,431 - com.bizfunction.CommonFunction -INFO - Text 'Sell' is visible on screen
+2023-11-17 12:32:10,607 - com.bizfunction.CommonFunction -INFO - Text 'Gift Cards' is visible on screen
+2023-11-17 12:33:37,623 - com.bizfunction.AmazonBizz -INFO - Successfully navigated to dev environment
+2023-11-17 12:33:39,291 - com.bizfunction.CommonFunction -INFO - Text 'Amazon miniTV' is visible on screen
+2023-11-17 12:33:39,455 - com.bizfunction.CommonFunction -INFO - Text 'Sell' is visible on screen
+2023-11-17 12:33:39,661 - com.bizfunction.CommonFunction -INFO - Text 'Gift Cards' is visible on screen
+2023-11-17 12:33:45,580 - com.bizfunction.CommonFunction -INFO - Product contain text as expected
+2023-11-17 12:33:45,599 - com.bizfunction.CommonFunction -INFO - Product contain text as expected
+2023-11-17 12:33:45,617 - com.bizfunction.CommonFunction -INFO - Product contain text as expected
+2023-11-17 12:33:45,633 - com.bizfunction.CommonFunction -INFO - Product contain text as expected
+2023-11-17 12:33:45,654 - com.bizfunction.CommonFunction -INFO - Product contain text as expected
+2023-11-17 12:33:45,670 - com.bizfunction.CommonFunction -INFO - Product contain text as expected
+2023-11-17 12:33:45,683 - com.bizfunction.CommonFunction -INFO - Product contain text as expected
+2023-11-17 12:33:45,697 - com.bizfunction.CommonFunction -INFO - Product contain text as expected
+2023-11-17 12:33:45,713 - com.bizfunction.CommonFunction -INFO - Product contain text as expected
+2023-11-17 12:33:45,727 - com.bizfunction.CommonFunction -INFO - Product contain text as expected
+2023-11-17 12:33:45,745 - com.bizfunction.CommonFunction -INFO - Product contain text as expected
+2023-11-17 12:33:45,759 - com.bizfunction.CommonFunction -INFO - Product contain text as expected
+2023-11-17 12:33:45,774 - com.bizfunction.CommonFunction -INFO - Product contain text as expected
+2023-11-17 12:33:45,790 - com.bizfunction.CommonFunction -INFO - Product contain text as expected
+2023-11-17 12:33:45,801 - com.bizfunction.CommonFunction -INFO - Product contain text as expected
+2023-11-17 12:33:45,814 - com.bizfunction.CommonFunction -INFO - Product contain text as expected
